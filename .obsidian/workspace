@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "a2c487ba337417da",
+    "type": "split",
+    "children": [
+      {
+        "id": "3564f895ff8c4e30",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Words/Words.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1be46cc4c91476b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "c57de5dcc30e1c53",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02c129db67f5db85",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "036644b53aefb2cb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 229
+  },
+  "right": {
+    "id": "ccd8badd6ba7b9dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "deeab6b363a4c471",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "381e99fb7585cd4f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Words/Words.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3564f895ff8c4e30",
+  "lastOpenFiles": [
+    "Wish List/Wish-List.md",
+    "Testing/Testing.md",
+    "Books/Indistractable.md",
+    "Untitled.md",
+    "Programming/Java/Functional Interfaces.md",
+    "Words/Words.md",
+    "Pasted image 20220913192916.png",
+    "Programming/Java/Exceptions.md",
+    "Programming/Java/Functional Programming.md",
+    "Programming/Java/Java.md"
+  ]
+}
